@@ -1,0 +1,25 @@
+mi segundo commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    api-rest-NodeJS
+#	modified:   index.js
+#	modified:   node_modules/glob-parent/index.js
+#	modified:   node_modules/glob-parent/package.json
+#	modified:   node_modules/minimist/example/parse.js
+#	modified:   node_modules/minimist/index.js
+#	modified:   node_modules/minimist/package.json
+#	modified:   node_modules/minimist/readme.markdown
+#	modified:   node_modules/minimist/test/bool.js
+#	modified:   node_modules/nodemon/package.json
+#	modified:   node_modules/picomatch/CHANGELOG.md
+#	modified:   node_modules/picomatch/README.md
+#	deleted:    node_modules/picomatch/lib/.DS_Store
+#	modified:   node_modules/picomatch/lib/parse.js
+#	modified:   node_modules/picomatch/lib/picomatch.js
+#	modified:   node_modules/picomatch/lib/scan.js
+#	modified:   node_modules/picomatch/package.json
+#	modified:   package-lock.json
+#
